@@ -24,7 +24,7 @@ This project demonstrates how an AI agent can be trained to play the popular gam
 
 To train the AI and watch it play, simply run:
 ```bash
-python flappy_bird_ai.py
+python flappy_bird.py
 ```
 
 ## Contributing
